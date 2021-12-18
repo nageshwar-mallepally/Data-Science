@@ -10,7 +10,7 @@
     
 ## Define Problem
   ### Based on the Dataset, EDA and Analysis
-  #### Different plotting Techniques
+  #### Using different plotting Techniques
 
 ## Prepare Data
   ### Summerize Data
