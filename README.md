@@ -119,3 +119,12 @@
   #### Model deployement
   #### Re-training Approch
   
+  
+## Various Object Detection algorithms
+### Following are some popular algorithms used for object detection:
+
+#### R-CNN: Region-based Convolutional Neural Networks
+#### Fast R-CNN: Fast Region-based Convolutional Neural Networks
+#### Faster R-CNN: Faster Regional-based Convolutional Networks
+#### YOLO: You Only Look Once
+#### SSD: Single Shot Detector
