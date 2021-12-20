@@ -52,7 +52,7 @@
   #### Label encoding
   
 ## Feature Select  
-## Based on the Domain knowledge feature selection
+### Based on the Domain knowledge feature selection
   ### Filter Method
   #### Using difference correlation methods and plots
   #### Using different tests we can select feature
