@@ -84,6 +84,9 @@
   #### Bi-directional 
         
 ## Evaluate Algoritham
+  ### Devide train and test sets from dataset
+  #### check balancing
+  #### If the data is imbalanced with some techniques make data balanced to use data to train model.
   ### Supervised(Linear)
   #### Linear Regression
   #### Logistic Regression
