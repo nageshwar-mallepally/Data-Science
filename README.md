@@ -3,21 +3,36 @@
 
 ## Data Collection
   ### Load Data
-  #### from company DB
+  #### From company DB
+  ##### Data warehouse
+  ##### Data Lake
+  ###### Data Pipeline
   #### 3rd party API's
+  ##### Ex: corona or population details are maintain in one place but they provide api's to third parties for data
   #### Survey
-  #### Webwrappers
+  ##### Random Survey
+  ##### Total Survey
+  ###### But random survery always represent total survey 
+  #### Web Scrapping
+  ##### Collect accurate data from any website, DB or API's using python or any Technology
     
 ## Define Problem
-  ### Based on the Dataset, EDA and Analysis
-  #### Using different plotting Techniques
+  ### Problem is different from customer to customer
+  #### Some customer will give exact problem
+  #### Some customers will not give any problem, we have to define the problem and soluation based on the data
+  #### Some customers wants business development from previous data.
+  
+## EDA
+  ## Based on the Dataset, EDA and Analysis
+  ### Using different plotting Techniques
+  #### This EDA is very useful to understand the Data quickly.
 
 ## Prepare Data
   ### Summerize Data
   #### Pick head of Dataset
   #### Dimensions(Shape) of Dataset
   #### Statistical Summary
-  #### Class Distribution
+  #### Class Distribution (grouping)
  
  ### Data visualization
   #### Univariante plots (hist())
@@ -29,10 +44,10 @@
 
  
  ### Create valid dataset
-  #### Data Outliers 
+  #### Find Data Outliers 
   ##### Q1, Q3, Replace with mean, quarntile(0.95), quarntile(0.75)
   #### Handling Missing values
-  ##### Replace with mean for contineous data
+  ##### Replace with mean, median or mode for contineous data
   ##### For categorical data replace with most occure or beside value
   ##### With random value
   ##### we can remove missing rows sometimes
@@ -55,21 +70,19 @@
 ### Based on the Domain knowledge feature selection
   ### Filter Method
   #### Using difference correlation methods and plots
-  #### Using different tests we can select feature
-  #### Feature selection techniques based variables
+  #### Using different tests we can select features
+  #### Feature selection techniques based on variables
   ##### Co-relation
   ##### One sampling
   ##### T-test
   ##### chi-squre test
   ##### Anova test
-      
-      
-  ### Wrapper methods
+    
+  ### Wrapper methods for selecting features
   #### Forward selection
   #### Backward selection
   #### Bi-directional 
         
-  
 ## Evaluate Algoritham
   ### Supervised(Linear)
   #### Linear Regression
