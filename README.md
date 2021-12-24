@@ -91,7 +91,8 @@
   #### Loss function
     
 ## Deploye Model
-
+ ### create pickle file
+#### using some libraries we can create pickle file
 
 
 
